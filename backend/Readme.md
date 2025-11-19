@@ -1,6 +1,3 @@
-# Setup
-
-
 # Venv
 ### activate
 ```bash
@@ -16,7 +13,7 @@ deactivate
 # Run FastAPI Server
 
 ```bash
-uvicorn main:app --reload
+uv run uvicorn main:app --reload
 ```
 ### Optional arguments
 
