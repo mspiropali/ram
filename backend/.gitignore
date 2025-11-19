@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 
+
 # Env files
 .env
 .env.*
@@ -11,3 +12,6 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# MacOS
+.DS_Store
